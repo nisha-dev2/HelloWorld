@@ -8,6 +8,14 @@ public class Main {
         int sum = num1 + num2;
         return sum;
     }
+
+    static void myMethod2() {
+        System.out.println("I just got executed!");
+    }
+
+    static void myMethod3() {
+        System.out.println("I just got executed!");
+    }
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
